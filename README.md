@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-hupperich-36448b13a/)
-[![GitHub followers](https://img.shields.io/github/followers/Hupperich-Manuel?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/Hupperich-Manuel)
+[![GitHub followers](https://img.shields.io/github/followers/manuhup?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/manuhup)
 
 </div>
 
@@ -82,11 +82,11 @@ Creating production-ready pipelines that chain **Claude, GPT & open-source model
 <tr>
 <td width="50%">
 
-### 📈 [LSTM-XGBoost Hybrid Forecasting](https://github.com/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting)
+### 📈 [LSTM-XGBoost Hybrid Forecasting](https://github.com/manuhup/LSTM-XGBoost-Hybrid-Forecasting)
 
-![Stars](https://img.shields.io/github/stars/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=F8D866&labelColor=0D1117)
-![Forks](https://img.shields.io/github/forks/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=A177FE&labelColor=0D1117)
-![License](https://img.shields.io/github/license/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=00D4AA&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/manuhup/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=F8D866&labelColor=0D1117)
+![Forks](https://img.shields.io/github/forks/manuhup/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=A177FE&labelColor=0D1117)
+![License](https://img.shields.io/github/license/manuhup/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=00D4AA&labelColor=0D1117)
 
 **🚀 My flagship project combining LSTM deep learning with XGBoost for stock price prediction. This hybrid approach extracts more information from raw inputs than traditional methods.**
 
@@ -99,7 +99,7 @@ Creating production-ready pipelines that chain **Claude, GPT & open-source model
 </td>
 <td width="50%">
 
-### 🔧 [Monty](https://github.com/Hupperich-Manuel/monty)
+### 🔧 [Monty](https://github.com/manuhup/monty)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-💚-00D4AA?style=for-the-badge&labelColor=0D1117)
@@ -152,14 +152,14 @@ Creating production-ready pipelines that chain **Claude, GPT & open-source model
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hupperich-Manuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hupperich-Manuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuhup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuhup&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hupperich-Manuel&theme=tokyonight&hide_border=true&background=0D1117&stroke=A177FE&ring=F8D866&fire=F8D866&currStreakLabel=A177FE&sideLabels=C9D1D9&dates=6E7681)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuhup&theme=tokyonight&hide_border=true&background=0D1117&stroke=A177FE&ring=F8D866&fire=F8D866&currStreakLabel=A177FE&sideLabels=C9D1D9&dates=6E7681)](https://git.io/streak-stats)
 
 </div>
 
@@ -210,7 +210,7 @@ Creating production-ready pipelines that chain **Claude, GPT & open-source model
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hupperich-Manuel&style=for-the-badge&color=A177FE&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=manuhup&style=for-the-badge&color=A177FE&label=PROFILE+VIEWS)
 
 <br/>
 
