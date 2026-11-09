@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "test": "node --test scripts/card.test.ts",
+    "check": "node scripts/check.ts"
+  }
+}
